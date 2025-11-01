@@ -1,5 +1,5 @@
 # DOC'S DOCX
-
+BUILT AT HACKTX 2025 (UT Austin's Hackathon)
 A modern medical portal application that connects doctors and patients with AI-powered medical summaries and real-time chat assistance.
 
 ## 🚀 Features
